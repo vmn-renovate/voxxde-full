@@ -1,0 +1,21 @@
+{
+  "name": "voxxde-renovate",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "eslint": "^8.57.0",
+    "vitest" : "^1.5.0"
+
+  },
+  "dependencies": {
+    "date-fns": "^3.5.0",
+    "axios": "^1.5.0"
+  }
+}
